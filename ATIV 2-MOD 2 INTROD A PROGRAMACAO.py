@@ -13,5 +13,5 @@ elif rodas == 4 and passageiros == 8 and peso < 3500:
     print("A carteira recomendada é do tipo B")
 elif 2 <= rodas <= 3:
     print("A carteira recomendada é do tipo A!")
-    else:
-        print("Esse veículo não possui carteira recomendada no sistema")
+else:    
+    print("Esse veículo não possui carteira recomendada no sistema")
